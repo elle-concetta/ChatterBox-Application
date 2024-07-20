@@ -1,5 +1,3 @@
-// Elizabeth Fassler
-
 import SwiftUI
 import FirebaseAuth
 
